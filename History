@@ -1,0 +1,9 @@
+############################
+####### History File #######
+############################
+9.11.2021: S. Guatelli brachy-irn-V10-07-01
+- Migration to G4RunManagerFactory and CMAKE 3.12-3.20 required.
+- Removal of ROOT, now the analysis is done with the G4 analysis component
+
+13.10.2021: S. Guatelli brachy-irn-V10-07-00
+- Migration to G4RunManagerFactory and CMAKE 3.12-3.20 required.
